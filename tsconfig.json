@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noImplicitAny": true,
+        "lib": [
+            "dom",
+            "ESNext"
+        ],
+        "target": "es2015",
+        "rootDir": "./src",
+        "outDir": ".",
+    },
+    "include": [
+        "./src/**/*.ts"
+    ],
+    "exclude": []
+}

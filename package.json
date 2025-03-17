@@ -1,0 +1,29 @@
+{
+  "name": "@saleh_kebria/mdeditor",
+  "version": "0.1.0",
+  "description": "A very simple Markdown editor just like the Github editor",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "md",
+    "markdown",
+    "editor",
+    "mdeditor",
+    "markdown editor"
+  ],
+  "author": "msynk",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/msynk/MdEditor"
+  },
+  "homepage": "https://github.com/msynk/MdEditor",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
